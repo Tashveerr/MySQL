@@ -1,0 +1,3 @@
+ALTER TABLE my_contacts
+ADD COLUMN city VARCHAR(30),
+ADD COLUMN state VARCHAR(2);
