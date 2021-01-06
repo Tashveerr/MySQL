@@ -1,0 +1,3 @@
+Does the order in which we evaluate each of the T/F columns matter?
+
+Yes, it does matter.
